@@ -24,6 +24,7 @@ How to use Git and Github?
 
 3) Commit this file `git commit -m “first commit”` - it is going to create the first commit!
 
+4) `git branch -M "main"` for changing the main branch from `master` to `main`
 
 
 ## Interface Github
